@@ -34,4 +34,4 @@ public class Car_Controller : MonoBehaviour
 }
 <img width="965" alt="캡처" src="https://user-images.githubusercontent.com/126967150/224534663-e3014bc3-b79a-4106-b42b-a5176cbc9cdc.png">
 
-해당 상태에서 막혔습니다. text 출력이 불가능
+해당 상태에서 막혔습니다. text 출력이 불가능했습니다
